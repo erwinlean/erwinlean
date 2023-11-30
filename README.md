@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello! I'm Erwin Leandro Marte
 
-<!--
-**erwinlean/erwinlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👩‍💻 Currently working as a software developer in Criteria online.
+- 🌱 Learning .NET C#, and Angular.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+- **Programming Languages:** [Javascript, Nodejs, C#]
+- **Frameworks and Libraries:** [Express, Angular]
+- **Databases:** [MongoDB, PostgreSQL, MySQL]
+- **Development Tools:** [VS Code, Git, Neovim, Docker]
+  
+## Contact
+- [LinkedIn]([link_to_your_LinkedIn_profile](https://www.linkedin.com/in/erwinmarte/))
+- [Email](mailto:erwin.mdq@gmail.com)
