@@ -4,7 +4,7 @@
 
 ##### About Me
 -  Currently working as a software developer at Criteria online.
--  Learning .NET C# and Angular.
+-  Learning Rust and Svelte.
   
 ##### Contact
 - [LinkedIn](https://www.linkedin.com/in/erwinmarte/)
