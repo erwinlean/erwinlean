@@ -4,7 +4,7 @@
 
 ##### About Me
 -  Currently working as a software developer at Criteria online.
--  Learning Rust, Svelte, and lua.
+-  Learning Rust, GO, and lua.
   
 ##### Contact
 - [LinkedIn](https://www.linkedin.com/in/erwinmarte/)
